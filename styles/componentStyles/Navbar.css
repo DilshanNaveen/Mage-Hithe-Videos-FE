@@ -1,8 +1,11 @@
 .nav{
-    height: 6rem;
+    height: 6.5rem;
     background-color: aquamarine;
 }
-
+.footer{
+    height: 6rem;
+    background-color: rgb(219, 127, 255);
+}
 .title-margin{
     padding-top: 2rem;
     padding-left: 2rem;
