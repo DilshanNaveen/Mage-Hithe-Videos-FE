@@ -4,7 +4,7 @@ import Layout from '../components/MainLayout'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div>
       <Head>
         <title>Mage Hithe Videos</title>
         <meta name="description" content="A youtube video downloader experiment with Next.js" />
