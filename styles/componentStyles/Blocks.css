@@ -1,6 +1,10 @@
 .block-frame{
     background-color: brown;
-    width: 40rem;
+    width: 30rem;
     height: 10rem;
     margin-bottom: 3rem;
+}
+
+.block-inside{
+    margin: 1rem;
 }

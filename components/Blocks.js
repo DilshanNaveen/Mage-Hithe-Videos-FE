@@ -5,7 +5,10 @@ const { Text } = Typography;
 const Blocks = (props) =>{
     return (
         <div className="block-frame">
-            <Text>{props.vTitle}</Text>
+            <div className="block-inside">
+                <Text>{props.vTitle}</Text>
+            </div>
+            
         </div>
     )
 
